@@ -1,0 +1,4 @@
+#Mon Jul 27 14:36:00 SGT 2020
+base.0=E\:\\AACS 3353 Practical\\fragmetn example 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
